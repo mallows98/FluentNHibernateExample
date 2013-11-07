@@ -1,0 +1,77 @@
+7/11/2013 1:54:55 p.m.	This log contains information about the import schema operation into project 'FluentNHibernateTrial.DB' on computer 'XDW-SGH324Q78B' by user 'Ann.Marinas'.
+7/11/2013 1:54:56 p.m.	Import of database schema has started.
+7/11/2013 1:55:01 p.m.	Gathering database options
+7/11/2013 1:55:01 p.m.	Gathering users
+7/11/2013 1:55:01 p.m.	Gathering roles
+7/11/2013 1:55:01 p.m.	Gathering application roles
+7/11/2013 1:55:01 p.m.	Gathering role memberships
+7/11/2013 1:55:01 p.m.	Gathering filegroups
+7/11/2013 1:55:01 p.m.	Gathering full-text catalogs
+7/11/2013 1:55:01 p.m.	Gathering assemblies
+7/11/2013 1:55:01 p.m.	Gathering certificates
+7/11/2013 1:55:01 p.m.	Gathering asymmetric keys
+7/11/2013 1:55:01 p.m.	Gathering symmetric keys
+7/11/2013 1:55:01 p.m.	Gathering encrypted symmetric keys
+7/11/2013 1:55:01 p.m.	Gathering schemas
+7/11/2013 1:55:01 p.m.	Gathering XML schema collections
+7/11/2013 1:55:01 p.m.	Gathering user-defined data types
+7/11/2013 1:55:01 p.m.	Gathering user-defined types
+7/11/2013 1:55:01 p.m.	Gathering table types
+7/11/2013 1:55:01 p.m.	Gathering unique keys for table types
+7/11/2013 1:55:01 p.m.	Gathering primary keys for table types
+7/11/2013 1:55:01 p.m.	Gathering check constraints for table types
+7/11/2013 1:55:01 p.m.	Gathering default constraints for table types
+7/11/2013 1:55:01 p.m.	Gathering partition functions
+7/11/2013 1:55:01 p.m.	Gathering partition schemes
+7/11/2013 1:55:01 p.m.	Gathering functions
+7/11/2013 1:55:01 p.m.	Gathering encrypted functions
+7/11/2013 1:55:01 p.m.	Gathering aggregates
+7/11/2013 1:55:01 p.m.	Gathering procedures
+7/11/2013 1:55:01 p.m.	Gathering encrypted procedures
+7/11/2013 1:55:01 p.m.	Gathering tables
+7/11/2013 1:55:01 p.m.	Gathering primary keys
+7/11/2013 1:55:01 p.m.	Gathering unique constraints
+7/11/2013 1:55:01 p.m.	Gathering foreign keys
+7/11/2013 1:55:01 p.m.	Gathering default constraints
+7/11/2013 1:55:01 p.m.	Gathering check constraints
+7/11/2013 1:55:01 p.m.	Gathering views
+7/11/2013 1:55:01 p.m.	Gathering encrypted views
+7/11/2013 1:55:01 p.m.	Gathering indexes
+7/11/2013 1:55:01 p.m.	Gathering statistics
+7/11/2013 1:55:01 p.m.	Gathering full-text index stoplists
+7/11/2013 1:55:01 p.m.	Gathering search property lists
+7/11/2013 1:55:01 p.m.	Gathering search properties
+7/11/2013 1:55:01 p.m.	Gathering full-text indexes
+7/11/2013 1:55:01 p.m.	Gathering column store indexes
+7/11/2013 1:55:01 p.m.	Gathering spatial indexes
+7/11/2013 1:55:01 p.m.	Gathering XML indexes
+7/11/2013 1:55:01 p.m.	Gathering Selective XML indexes
+7/11/2013 1:55:01 p.m.	Gathering encrypted triggers
+7/11/2013 1:55:01 p.m.	Gathering triggers
+7/11/2013 1:55:01 p.m.	Gathering encrypted and clr ddl triggers
+7/11/2013 1:55:01 p.m.	Gathering ddl triggers
+7/11/2013 1:55:01 p.m.	Gathering synonyms
+7/11/2013 1:55:01 p.m.	Gathering defaults
+7/11/2013 1:55:01 p.m.	Gathering data constraint uddt bindings
+7/11/2013 1:55:01 p.m.	Gathering rules
+7/11/2013 1:55:01 p.m.	Gathering data constraint uddt bindings
+7/11/2013 1:55:01 p.m.	Gathering message types
+7/11/2013 1:55:01 p.m.	Gathering queues
+7/11/2013 1:55:01 p.m.	Gathering contracts
+7/11/2013 1:55:01 p.m.	Gathering services
+7/11/2013 1:55:01 p.m.	Gathering event notifications
+7/11/2013 1:55:01 p.m.	Gathering remote service bindings
+7/11/2013 1:55:01 p.m.	Gathering broker priorities
+7/11/2013 1:55:01 p.m.	Gathering signatures
+7/11/2013 1:55:01 p.m.	Gathering data compression options
+7/11/2013 1:55:01 p.m.	Gathering sequence types
+7/11/2013 1:55:01 p.m.	Gathering database permissions
+7/11/2013 1:55:01 p.m.	Gathering extended properties
+7/11/2013 1:55:01 p.m.	Gathering credentials
+7/11/2013 1:55:01 p.m.	Gathering logins
+7/11/2013 1:55:01 p.m.	Gathering server audits
+7/11/2013 1:55:02 p.m.	Scanning project for duplicate elements
+7/11/2013 1:55:02 p.m.	Finished duplicate element processing
+7/11/2013 1:55:02 p.m.	Finished importing database.
+7/11/2013 1:55:02 p.m.	A summary of the import was saved to the following location: D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial.DB\Import Schema Logs\FluentNHibernateTria_20131107125455.log
+7/11/2013 1:55:02 p.m.	Click Finish to continue...

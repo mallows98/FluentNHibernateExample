@@ -1,0 +1,11 @@
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\FluentNHibernateTrial.exe.config
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\FluentNHibernateTrial.exe
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\FluentNHibernateTrial.pdb
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\FluentNHibernate.dll
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\Iesi.Collections.dll
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\NHibernate.dll
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\FluentNHibernate.xml
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\Iesi.Collections.xml
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\bin\Debug\NHibernate.xml
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\obj\Debug\FluentNHibernateTrial.exe
+D:\Projects\Tutorials\FluentNHibernateTrial\FluentNHibernateTrial\obj\Debug\FluentNHibernateTrial.pdb
